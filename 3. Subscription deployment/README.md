@@ -1,4 +1,4 @@
-# Deploying a storage account with Bicep
+# Deploying with Bicep
 
 ## Intro
 
